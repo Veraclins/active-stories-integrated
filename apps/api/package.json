@@ -3,7 +3,7 @@
    "version": "0.0.1",
    "description": "Awesome project developed with TypeORM.",
    "dependencies": {
-      "bcrypt": "^3.0.7",
+      "bcrypt": "^5.0.0",
       "body-parser": "^1.18.1",
       "cors": "^2.8.5",
       "dotenv": "^8.2.0",
