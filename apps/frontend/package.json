@@ -28,7 +28,7 @@
     "react-scripts": "3.3.0",
     "styled-components": "^4.4.1",
     "styled-normalize": "^8.0.6",
-    "typescript": "~3.7.2"
+    "typescript": "~3.9.9"
   },
   "eslintConfig": {
     "extends": "react-app"
