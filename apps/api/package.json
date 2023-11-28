@@ -3,7 +3,7 @@
    "version": "0.0.1",
    "description": "Awesome project developed with TypeORM.",
    "dependencies": {
-      "bcrypt": "^3.0.7",
+      "bcrypt": "^5.0.1",
       "body-parser": "^1.18.1",
       "cors": "^2.8.5",
       "dotenv": "^8.2.0",
@@ -11,7 +11,7 @@
       "jsonwebtoken": "^8.5.1",
       "pg": "^7.3.0",
       "reflect-metadata": "^0.1.10",
-      "typeorm": "0.2.21"
+      "typeorm": "0.2.39"
    },
    "scripts": {
       "start": "ts-node-dev --no-deps --no-notify --respawn --transpileOnly -r tsconfig-paths/register ./src",
